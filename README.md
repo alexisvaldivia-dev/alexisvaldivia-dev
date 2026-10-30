@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hola, soy Alexis 👋
 
-<!--
-**alexisvaldivia-dev/alexisvaldivia-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apasionado por el desarrollo de software, la tecnología y la democratización de herramientas impulsadas por IA. Actualmente enfocado en ingeniería de software, desarrollo móvil y web.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+
+* **Lenguajes:** C++, Python, Kotlin, Go, Rust, Java
+* **Entornos / OS:** Linux (Debian 13), JetBrains CLion, Git
+* **Desarrollo:** Mobile (Android / Kotlin Multiplatform), Web, IA aplicada
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=alexisvaldivia-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
