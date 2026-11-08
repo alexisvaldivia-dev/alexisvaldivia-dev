@@ -11,9 +11,3 @@ Apasionado por el desarrollo de software, la tecnología y la democratización d
 * **Desarrollo:** Mobile (Android / Kotlin Multiplatform), Web, IA aplicada
 
 ---
-
-### 📊 Estadísticas de GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=alexisvaldivia-dev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
